@@ -1,4 +1,4 @@
-# Getting Started with Tailwind starter kit for React App
+# Tailwind starter kit for React App by Webninjaz
 
 Webninjaz have developed a starter welcome kit to start your react app using tailwind CSS. This repo will help you skip setting up tailwind css on your react application. Happy Coding!
 
